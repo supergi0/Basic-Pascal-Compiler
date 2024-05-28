@@ -1,14 +1,5 @@
 # Compilers Assignment 2
 
-### GROUP CODE: BTC24ETH
-
-### GROUP MEMBERS: 
-SIVA NAGA RAJ DHANUSH LELLA                2020B3A70545H  
-POLA SRI SAI MALLIKHARJUNA ABHIRAM GUPTA   2020B4A70967H
-AKASH MIKKILINENI                          2020B1A71003H
-PINGALE SAGAR SUBHASH                      2020A7PS2062H
-YENDURI SAI NAGA KIRAN                     2020B1A72521H
-
 ### Task 1
 - Navigate to task_1_Lexical_Analysis
 - Place the file to be tested in this folder
