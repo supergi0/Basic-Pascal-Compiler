@@ -44,3 +44,5 @@
 - Run -> gcc y.tab.c lex.yy.c -ll
 - Run -> ./a.out <your_file_name>
 - Get the output in terminal
+
+## For Task 5 while and for do loops are not implemented, additionally the evaluator cannot handle negative integers.
